@@ -23,8 +23,8 @@ https://github.com/ronitkumar02/NewsAppProject/assets/107792345/adec32af-86b4-4b
 
 ## How to Run
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd news-web-app`
+1. Clone the repository: `git clone <https://github.com/ronitkumar02/News_App.git>`
+2. Navigate to the project directory: `cd News_App`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000` to view the application.
